@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://seanoldham.micro.blog/2025/11/13/tonight-were-troubleshooting-some-sound.html",
+				
+				"content_html": "<p>Tonight we&rsquo;re troubleshooting some sound issues. There are a few switches that aren&rsquo;t generating sounds like they should—primarily my flippers, which should be making a blaster sound on coil fire.</p>\n<p><img src=\"uploads/2025/4775164b78.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2025/d13f766401.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Tonight we're troubleshooting some sound issues. There are a few switches that aren't generating sounds like they should—primarily my flippers, which should be making a blaster sound on coil fire.\n\n<img src=\"uploads/2025/4775164b78.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2025/d13f766401.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-11-13T21:16:35-06:00",
+				"url": "https://www.seanoldham.com/2025/11/13/tonight-were-troubleshooting-some-sound.html",
+				"tags": ["Pinball"]
+			},
+			{
+				"id": "http://seanoldham.micro.blog/2025/11/12/back-to-the-space-invaders.html",
+				
+				"content_html": "<p>Back to the Space Invaders pin for a bit! I got my NVRAM installed, which is a corrosion-free way to store settings and high score data. For context, when this game was released in 1980, it came with batteries, but over time those can leak and really mess up the boards. #pinball</p>\n<p><img src=\"uploads/2025/8f3f2b23d7.jpg\" width=\"450\" height=\"600\" alt=\"A vintage Space Invaders pinball machine features an illuminated, colorful playfield with sci-fi themed artwork.\"><img src=\"uploads/2025/ddb40cc511.jpg\" width=\"450\" height=\"600\" alt=\"A circuit board with various electronic components and wiring is visible, featuring a 5101 NVRAM chip.\"></p>\n",
+				"content_text": "Back to the Space Invaders pin for a bit! I got my NVRAM installed, which is a corrosion-free way to store settings and high score data. For context, when this game was released in 1980, it came with batteries, but over time those can leak and really mess up the boards. #pinball\n\n<img src=\"uploads/2025/8f3f2b23d7.jpg\" width=\"450\" height=\"600\" alt=\"A vintage Space Invaders pinball machine features an illuminated, colorful playfield with sci-fi themed artwork.\"><img src=\"uploads/2025/ddb40cc511.jpg\" width=\"450\" height=\"600\" alt=\"A circuit board with various electronic components and wiring is visible, featuring a 5101 NVRAM chip.\">\n",
+				"date_published": "2025-11-12T20:28:22-06:00",
+				"url": "https://www.seanoldham.com/2025/11/12/back-to-the-space-invaders.html",
+				"tags": ["Pinball"]
+			},
+			{
+				"id": "http://seanoldham.micro.blog/2025/11/11/next-up-is-the-k.html",
+				
+				"content_html": "<p>Next up is the 10k score reel, which is having some weird problems. It&rsquo;s not rolling over correctly and for some reason the coil is active at all times. Gonna dig into that soon! #pinball</p>\n",
+				"content_text": "Next up is the 10k score reel, which is having some weird problems. It's not rolling over correctly and for some reason the coil is active at all times. Gonna dig into that soon! #pinball\n",
+				"date_published": "2025-11-11T22:16:36-06:00",
+				"url": "https://www.seanoldham.com/2025/11/11/next-up-is-the-k.html",
+				"tags": ["Pinball"]
+			},
+			{
 				"id": "http://seanoldham.micro.blog/2025/11/11/replaced-the-coil-readjusted-a.html",
 				
 				"content_html": "<p>Replaced the coil, (re)adjusted a few switches and we&rsquo;re back in action! #pinball</p>\n",
@@ -60,8 +87,8 @@
 			{
 				"id": "http://seanoldham.micro.blog/2025/11/06/fixing-this-during-some-breaks.html",
 				
-				"content_html": "<p>Fixing this during some breaks today. This is the tens score reel and it&rsquo;s not resetting. First step is to disassemble and clean, then we&rsquo;ll see what comes next.</p>\n<img src=\"https://cdn.uploads.micro.blog/268850/2025/image.jpg\" alt=\"A vintage mechanical component from D. Gottlieb & Co., featuring wiring and labeled connectors.\">\n",
-				"content_text": "Fixing this during some breaks today. This is the tens score reel and it's not resetting. First step is to disassemble and clean, then we'll see what comes next.\n\n<img src=\"https://cdn.uploads.micro.blog/268850/2025/image.jpg\" alt=\"A vintage mechanical component from D. Gottlieb & Co., featuring wiring and labeled connectors.\">\n",
+				"content_html": "<p>Fixing this during some breaks today. This is the tens score reel and it&rsquo;s not resetting. First step is to disassemble and clean, then we&rsquo;ll see what comes next.</p>\n<img src=\"uploads/2025/image.jpg\" alt=\"A vintage mechanical component from D. Gottlieb & Co., featuring wiring and labeled connectors.\">\n",
+				"content_text": "Fixing this during some breaks today. This is the tens score reel and it's not resetting. First step is to disassemble and clean, then we'll see what comes next.\n\n<img src=\"uploads/2025/image.jpg\" alt=\"A vintage mechanical component from D. Gottlieb & Co., featuring wiring and labeled connectors.\">\n",
 				"date_published": "2025-11-06T08:36:57-06:00",
 				"url": "https://www.seanoldham.com/2025/11/06/fixing-this-during-some-breaks.html",
 				"tags": ["Pinball"]
