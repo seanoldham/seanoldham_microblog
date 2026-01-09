@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://seanoldham.micro.blog/2026/01/09/theres-a-person-at-work.html",
+				
+				"content_html": "<p>There&rsquo;s a person at work that only communicates with me using AI. So guess what they get in return?</p>\n",
+				"content_text": "There's a person at work that only communicates with me using AI. So guess what they get in return?\n",
+				"date_published": "2026-01-09T07:55:12-06:00",
+				"url": "https://www.seanoldham.com/2026/01/09/theres-a-person-at-work.html"
+			},
+			{
+				"id": "http://seanoldham.micro.blog/2026/01/05/remember-everyone-its-a-not.html",
+				
+				"content_html": "<p>Remember everyone: it&rsquo;s a 26, not a 25.</p>\n",
+				"content_text": "Remember everyone: it's a 26, not a 25.\n",
+				"date_published": "2026-01-05T08:22:53-06:00",
+				"url": "https://www.seanoldham.com/2026/01/05/remember-everyone-its-a-not.html"
+			},
+			{
 				"id": "http://seanoldham.micro.blog/2026/01/04/yeah-but-i-dont-want.html",
 				
 				"content_html": "<p>Yeah but I don&rsquo;t want to go to work tomorrow</p>\n",
@@ -50,7 +66,7 @@
 				"id": "http://seanoldham.micro.blog/2025/12/31/picked-up-a-new-pinstargate.html",
 				
 				"content_html": "<p>Picked up a new pin—Stargate! It&rsquo;s a 1995 DMD from Premier (Gottlieb) that pulls from the movie. James Spader does the callouts (shoot the pyramid!) and the playfield layout was designed by Ray Tanzer. It&rsquo;s a lot of fun to play with a pretty straightforward rule set—perfect for our first DMD pin!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Picked up a new pin—Stargate! It's a 1995 DMD from Premier (Gottlieb) that pulls from the movie. James Spader does the callouts (shoot the pyramid!) and the playfield layout was designed by Ray Tanzer. It's a lot of fun to play with a pretty straightforward rule set—perfect for our first DMD pin!\n\n<img src=\"uploads/2025/e41fbd464d.jpg\" width=\"450\" height=\"600\" alt=\"A pinball machine featuring artwork and design elements inspired by the Stargate theme.\"><img src=\"uploads/2025/af6f7f5f51.jpg\" width=\"600\" height=\"450\" alt=\"A Stargate-themed pinball machine with illuminated game elements and a display showing Game Over and Credits.\"><img src=\"uploads/2025/197995d262.jpg\" width=\"600\" height=\"450\" alt=\"A colorful pinball machine playfield featuring intricate details and ramps, with an Egyptian pyramid theme.\"><img src=\"uploads/2025/c114231915.jpg\" width=\"600\" height=\"450\" alt=\"A detailed view of a Stargate themed pinball machine, featuring elements like a pyramid, ramps, and decorative figures.\"><img src=\"uploads/2025/4a210ff966.jpg\" width=\"600\" height=\"450\" alt=\"A detailed miniature figure of a shaggy creature with a harness is mounted on a spinning platform amidst a colorful, mechanical environment.\"><img src=\"uploads/2025/b3623e6f49.jpg\" width=\"600\" height=\"450\" alt=\"A pinball machine playfield features vibrant graphics with flaming arrows and the words COMBO, LIGHT DOUBLE, and BEGIN COMBO.\"><img src=\"uploads/2025/7695fee2d4.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2025/4f0b9e8458.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Picked up a new pin—Stargate! It's a 1995 DMD from Premier (Gottlieb) that pulls from the movie. James Spader does the callouts (shoot the pyramid!) and the playfield layout was designed by Ray Tanzer. It's a lot of fun to play with a pretty straightforward rule set—perfect for our first DMD pin!\n\n<img src=\"https://cdn.uploads.micro.blog/268850/2025/e41fbd464d.jpg\" width=\"450\" height=\"600\" alt=\"A pinball machine featuring artwork and design elements inspired by the Stargate theme.\"><img src=\"https://cdn.uploads.micro.blog/268850/2025/af6f7f5f51.jpg\" width=\"600\" height=\"450\" alt=\"A Stargate-themed pinball machine with illuminated game elements and a display showing Game Over and Credits.\"><img src=\"https://cdn.uploads.micro.blog/268850/2025/197995d262.jpg\" width=\"600\" height=\"450\" alt=\"A colorful pinball machine playfield featuring intricate details and ramps, with an Egyptian pyramid theme.\"><img src=\"https://cdn.uploads.micro.blog/268850/2025/c114231915.jpg\" width=\"600\" height=\"450\" alt=\"A detailed view of a Stargate themed pinball machine, featuring elements like a pyramid, ramps, and decorative figures.\"><img src=\"https://cdn.uploads.micro.blog/268850/2025/4a210ff966.jpg\" width=\"600\" height=\"450\" alt=\"A detailed miniature figure of a shaggy creature with a harness is mounted on a spinning platform amidst a colorful, mechanical environment.\"><img src=\"https://cdn.uploads.micro.blog/268850/2025/b3623e6f49.jpg\" width=\"600\" height=\"450\" alt=\"A pinball machine playfield features vibrant graphics with flaming arrows and the words COMBO, LIGHT DOUBLE, and BEGIN COMBO.\"><img src=\"https://cdn.uploads.micro.blog/268850/2025/7695fee2d4.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/268850/2025/4f0b9e8458.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-12-31T08:44:57-06:00",
 				"url": "https://www.seanoldham.com/2025/12/31/picked-up-a-new-pinstargate.html",
 				"tags": ["Pinball"]
