@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://seanoldham.micro.blog/2026/01/10/prepping-a-new-mod-for.html",
+				
+				"content_html": "<p>Prepping a new mod for the Stargate pin 👀</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Prepping a new mod for the Stargate pin 👀\n\n<img src=\"uploads/2026/paste-65ca30f1.png\" width=\"600\" height=\"351\" alt=\"A 3D modeling software interface displays designs for three circular rings and a base with a stair-step pattern.\">\n",
+				"date_published": "2026-01-10T11:11:37-06:00",
+				"url": "https://www.seanoldham.com/2026/01/10/prepping-a-new-mod-for.html"
+			},
+			{
+				"id": "http://seanoldham.micro.blog/2026/01/09/were-live-on-twitch-httpstwitchtvseanosaur.html",
+				
+				"content_html": "<p>we’re live on Twitch! <a href=\"https://twitch.tv/seanosaur\">twitch.tv/seanosaur</a></p>\n",
+				"content_text": "we’re live on Twitch! [twitch.tv/seanosaur](https://twitch.tv/seanosaur)\n",
+				"date_published": "2026-01-09T20:10:17-06:00",
+				"url": "https://www.seanoldham.com/2026/01/09/were-live-on-twitch-httpstwitchtvseanosaur.html"
+			},
+			{
+				"id": "http://seanoldham.micro.blog/2026/01/09/just-scored-my-first-billion.html",
+				
+				"content_html": "<p>Just scored my first billion on Stargate! #pinball</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Just scored my first billion on Stargate! #pinball\n\n<img src=\"uploads/2026/f7c07656f6.jpg\" width=\"600\" height=\"450\" alt=\"A pinball machine displays a high score of 1,084,907,610 with the words GAME OVER and FREE PLAY.\">\n",
+				"date_published": "2026-01-09T18:40:21-06:00",
+				"url": "https://www.seanoldham.com/2026/01/09/just-scored-my-first-billion.html",
+				"tags": ["Pinball"]
+			},
+			{
+				"id": "http://seanoldham.micro.blog/2026/01/09/happy-friday-everyone-ill-be.html",
+				
+				"content_html": "<p>Happy Friday everyone! I&rsquo;ll be streaming some #pinball around 8 PM central, come check it out and say hi! <a href=\"https://twitch.tv/seanosaur\">twitch.tv/seanosaur</a></p>\n",
+				"content_text": "Happy Friday everyone! I'll be streaming some #pinball around 8 PM central, come check it out and say hi! [twitch.tv/seanosaur](https://twitch.tv/seanosaur)\n",
+				"date_published": "2026-01-09T16:11:59-06:00",
+				"url": "https://www.seanoldham.com/2026/01/09/happy-friday-everyone-ill-be.html",
+				"tags": ["Pinball"]
+			},
+			{
 				"id": "http://seanoldham.micro.blog/2026/01/09/theres-a-person-at-work.html",
 				
 				"content_html": "<p>There&rsquo;s a person at work that only communicates with me using AI. So guess what they get in return?</p>\n",
