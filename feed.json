@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://seanoldham.micro.blog/2026/01/18/its-ironic-when-a-dodge.html",
+				
+				"content_html": "<p>It&rsquo;s ironic when a Dodge is in a wreck</p>\n",
+				"content_text": "It's ironic when a Dodge is in a wreck\n",
+				"date_published": "2026-01-18T18:40:37-06:00",
+				"url": "https://www.seanoldham.com/2026/01/18/its-ironic-when-a-dodge.html"
+			},
+			{
 				"id": "http://seanoldham.micro.blog/2026/01/10/prepping-a-new-mod-for.html",
 				
 				"content_html": "<p>Prepping a new mod for the Stargate pin 👀</p>\n<!-- raw HTML omitted -->\n",
@@ -68,7 +76,7 @@
 				"id": "http://seanoldham.micro.blog/2026/01/01/so-good-kimchi-wagyu-ramen.html",
 				
 				"content_html": "<p>So good!\nKimchi Wagyu Ramen @ Gyuro Ramen</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "So good!\nKimchi Wagyu Ramen @ Gyuro Ramen\n\n<img src=\"uploads/2026/0bfe1fa0e0.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "So good!\nKimchi Wagyu Ramen @ Gyuro Ramen\n\n<img src=\"https://cdn.uploads.micro.blog/268850/2026/0bfe1fa0e0.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-01T18:35:03-06:00",
 				"url": "https://www.seanoldham.com/2026/01/01/so-good-kimchi-wagyu-ramen.html"
 			},
